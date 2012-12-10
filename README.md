@@ -3,7 +3,7 @@ Tennis Kata
 The Challenge
 -------------------
 
-Solution for the challenge announce in [http://www.solveet.com/exercises/Kata-Tennis/13](Solveet.com) written in Ruby and Rspec
+Solution for the challenge announce in [Solveet.com](http://www.solveet.com/exercises/Kata-Tennis/13) written in Ruby and Rspec
 
 Running
 -------------------
